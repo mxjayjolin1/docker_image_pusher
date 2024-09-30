@@ -1,2 +1,1 @@
-odoo:17
-postgres:17
+postgres:15
